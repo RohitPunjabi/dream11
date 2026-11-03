@@ -1,5 +1,7 @@
 # Dream11 Genie 🏏
 
+   🔗 **Live demo:** https://dream11.streamlit.app/
+
 The Week 1 project for **Agentic AI for Developers**. A ReAct **agent** (LLM + tools + loop)
 that reasons over live-style cricket data and returns a fantasy XI — a captain, a
 vice-captain, and a one-line reason for every pick.
